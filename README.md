@@ -29,6 +29,5 @@ O `service_update.py` é um utilitário em Python que:
 
 ## Instalação
 ```bash
-git clone https://seu-repo.git
-cd seu-repo
-pip install -r requirements.txt
+git clone https://github.com/samirzera/Service-Update.git
+cd repositorio clonado
